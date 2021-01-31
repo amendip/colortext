@@ -1,5 +1,5 @@
 # colortext
-Generates gradient text for html pages using <font> tags for each letter with the color attribute set which is probably not a good idea but i just made it for fun. Works with UTF-8.
+Generates gradient text for html pages using \<font\> tags for each letter with the color attribute set which is probably not a good idea but i just made it for fun. Works with UTF-8.
   
 The source code passed through the program with colors ff0000, 0000ff, 00ff00 and ff0088:
   
