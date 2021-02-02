@@ -113,6 +113,7 @@ int main(int argc, char **argv) {
 	bufi=futf(buf, bufuichange, bufi);
 	}
 	printf("\n");
+	for(int i=0; i<n; i++) free(colors[i]);
 	free(colors); free(difference);
 	return 0;
 }
